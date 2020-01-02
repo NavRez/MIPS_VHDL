@@ -1,2 +1,2 @@
 # MIPS_VHDL
-Recreate he MIPS architecure via VHDL
+Recreated the MIPS architecure via VHDL
